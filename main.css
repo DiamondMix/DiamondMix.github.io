@@ -1,4 +1,15 @@
-#TEST {
-     text-align: center;   
-     color: red;
+html, 
+body {
+height: 100%;
+}
+                       
+body {           
+background-image: url(cauldronedit.JPG);1
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+         
+h1 {
+    text-align: center;
+    color: Aquamarine;
 }
